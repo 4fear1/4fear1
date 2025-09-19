@@ -12,8 +12,8 @@
 ---
 
 ## ⚡ Estatísticas do GitHub
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)  
+![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4fear1&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4fear1&layout=compact&theme=radical)
 
 ---
 
